@@ -1,0 +1,5 @@
+data/ 
+*.csv 
+vectorstore/ 
+__pycache__/ 
+*.pyc 

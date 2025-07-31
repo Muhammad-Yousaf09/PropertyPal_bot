@@ -288,7 +288,7 @@ If you encounter any issues or have questions:
 1. **Check the troubleshooting section** above
 2. **Review your API key** and dataset format
 3. **Open an issue** on GitHub with detailed error messages
-4. **Contact**: your-email@example.com
+4. **Contact**: yousafzadran50@gmail.com
 
 ## 🔮 Future Enhancements
 
